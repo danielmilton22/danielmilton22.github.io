@@ -359,11 +359,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://linkedin/in/danielmilton22
-#     - https://github.com/danielmilton22
+ social:
+   name:                Daniel Milton
+   links:
+     - https://linkedin/in/danielmilton22
+     - https://github.com/danielmilton22
 
 
 # Plugin Configs
