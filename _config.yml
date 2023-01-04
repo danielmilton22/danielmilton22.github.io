@@ -289,11 +289,8 @@ plugins:
 
 # Used on index and about sites
  social:
-   name:                Daniel Milton
+   name:            
    links:
-     - https://linkedin/in/danielmilton22
-     - https://github.com/danielmilton22
-
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
