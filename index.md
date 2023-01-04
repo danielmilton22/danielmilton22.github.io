@@ -15,5 +15,5 @@ When I'm not working on my programming skills, I love spending time outdoors, re
 Please take a look at my [Projects]{:.heading.flip-title} or my [Resume]{:.heading.flip-title}.
 
 
-[projects]: projects.md
-[resume]: resume.md
+[Projects]: /projects.md
+[Resume]: /resume.md
