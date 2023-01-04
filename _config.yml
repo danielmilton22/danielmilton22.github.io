@@ -1,6 +1,61 @@
 lang:                  en
 
 
+# The title of your blog. Used in the sidebar and the browser tab.
+title:                 Hi, Im Daniel
+
+# A short description (~150 chars) of the page used for the meta description tag.
+# Can use markdown, but no more than one paragraph (enforced by `>`)
+description:           >
+  This is Daniel Miltons personal website used to showcase his projects and past work experience.
+
+# A shorter description for the sidebar.
+tagline:               I am a new graduate looking for an opportunity to use my background in machine learning and software development. I am a dedicated and creative programmer, eager to expand my professional skill set.
+
+# A list of keywords for your blog
+keywords:              [personal website, daniel milton]
+
+# A (square) logo for your site.
+# If provided, it will be shown at the top of the sidebar.
+# It also used by the `jekyll-seo-tag` plugin.
+logo:                  /assets/img/My project(4).png
+
+# This should be the same author as first entry in `_data/authors.yml`.
+author:
+  # Used by `jekyll-feed`:
+  name:                Daniel Milton
+  email:               danielmilton1999@gmail.com
+  # # Used by `jekyll-seo-tag`:
+  # twitter:             <username>
+
+# Add links to the sidebar.
+menu:
+  - title:             Projects
+    url:               /projects/
+  - title:             Resume
+    url:               /resume/
+
+# Add links to the footer.
+# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
+legal:
+  - title:             LICENSE
+    url:               /LICENSE/
+  - title:             NOTICE
+    url:               /NOTICE/
+  - title:             CHANGELOG
+    url:               /CHANGELOG/
+
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2023. All rights reserved.
+
+# Format of the permalinks
+permalink:             /blog/:categories/:year-:month-:day-:title/
+
+# Pagination configuration (used by the `blog` layout)
+paginate:              10
+paginate_path:         /blog/:num/
+
+
 
 
 # Theme
