@@ -2,6 +2,7 @@
 layout: page
 title: Hi there!
 sitemap: false
+cover:  true
 ---
 
 Hi, I'm Daniel. I am an eager developer with a passion for creative problem solving and engineering. I like to challenge myself and love learning new skills. I am a tactful communicator and constructive collaborator with the ability to adapt to any situation.
