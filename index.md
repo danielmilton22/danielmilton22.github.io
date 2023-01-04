@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Thank You!
+title: Hi there!
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+Hi, I'm Daniel. I am an eager developer with a passion for creative problem solving and engineering. I like to challenge myself and love learning new skills. I am a tactful communicator and constructive collaborator with the ability to adapt to any situation.
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Currently, I am actively seeking opportunities to use my background in machine learning and software development to solve real-world problems and expand my professional skill-set. 
+
+When I'm not working on my programming skills, I love spending time outdoors, reading, weightlifting, and playing the piano.
+
+Please take a look at my [Projects]{:.heading.flip-title} or my [Resume]{:.heading.flip-title}.
 
 ## First Steps
 Start by reading the [Documentation]{:.heading.flip-title}.
@@ -45,3 +46,6 @@ containing example content:
 [install]: docs/install.md
 [upgrade]: docs/upgrade.md
 [config]: docs/config.md
+[projects]: docs/config.md
+[resume]: docs/config.md
+
