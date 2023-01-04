@@ -1,4 +1,4 @@
-lang:                  'en'
+lang:                  en
 
 
 
@@ -288,9 +288,6 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name:            
-   links:
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
