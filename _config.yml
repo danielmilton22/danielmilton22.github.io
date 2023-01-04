@@ -1,5 +1,7 @@
 lang:                  en
 
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/My project(4).png
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Hi, Im Daniel
