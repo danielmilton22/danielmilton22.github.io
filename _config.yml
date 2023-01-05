@@ -1,7 +1,7 @@
 lang:                  en
 
 favicon: /favicon.ico
-apple_touch_icon: /assets/img/My project(4).png
+apple_touch_icon: /assets/img/apple-touch-icon.png
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Hi, Im Daniel
@@ -20,7 +20,7 @@ keywords:              [personal website, daniel milton]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/My project(4).png
+logo:                  /assets/img/apple-touch-icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -39,13 +39,7 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2023. All rights reserved.
@@ -71,7 +65,7 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/solid-color-image.jpeg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
