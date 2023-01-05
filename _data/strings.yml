@@ -120,7 +120,7 @@ welcome:
 
 resume:
   location:            Location
-  location_separator:  ', '
+  location_separator:  ' '
   email:               Email
   phone:               Phone
   website:             Website
