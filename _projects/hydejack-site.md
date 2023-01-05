@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Hydejack Site'
+title: 'Using Computer Vision to Automate Top Plans'
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
