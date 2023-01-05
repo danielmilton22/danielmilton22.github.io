@@ -1,8 +1,8 @@
 ---
 layout: project
-title: 'Augmented Reality Network Observatory Project'
+title: 'Augmented Reality Network Observatory NPC bunny Project'
 date:        1 June 2022
-caption: I created a functional bunny NPC character to be used in virtual reality to guide players
+caption: I created a functional bunny NPC character to be used in virtual reality to guide players for the ARNO Project
 description: >
    Player interacting with Bunny NPC, click the link above the image to see full demo of functionalities. 
 image: 
@@ -20,9 +20,7 @@ sitemap: false
 ---
 
 
-# Mr. Rabbit NPC Character
 
-This project was created to be implemented into ARNO as a bunny NPC character with certain functionalities to help players navigate the world, pull up tutorials on a browser widget, and have dialogue with the player. The following documentation will briefly go over how everything works and guides to customizing the bunny NPC to your needs. The bunny character is based on the fictional character Mr. Rabbit from the book Rainbows End.
 
 
 ## Features
