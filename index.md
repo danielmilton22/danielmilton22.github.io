@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi there!
+title: About me
 sitemap: false
 cover: true
 ---
