@@ -4,7 +4,7 @@ title: 'Augmented Reality Network Observatory Project'
 date:        1 June 2022
 caption: I created a functional bunny NPC character to be used in virtual reality to guide players
 description: >
- Created from scratch an interactable bunny NPC character with dialogue tree, several different animations,
+   Created from scratch an interactable bunny NPC character with dialogue tree, several different animations,
 object highlighting abilities, random movements within bounds, and other functionalities. Click the links above the image to see my repo or a demo of my NPC bunny in action.
  
 image: 
