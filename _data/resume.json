@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Daniel Milton",
+    "label": "Data Science & Machine Learning @ UCSD",
+    "picture": "",
+    "email": "danielmilton1999@gmail.com",
+    "website": "dlmilton.com",
+    "summary": "Machine Learning/Data Science student with a passion for software development, artificial intelligence, and entrepreneurship.",
+    "location": {
+      "city": "San Diego"
+    },
+    "profiles": [],
+    "phone": "760-533-8518"
+  },
+  "work": [
+    {
+      "company": "Qualcomm Institute - UC San Diego Division of Calit2",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2022-06-01",
+      "summary": "Worked with Unreal Engine 5 and Blueprint Programming Language; Learned how to work with UE5 Artificial Intelligence features to create functional NPC characters; Created from scratch an interactable bunny NPC character with dialogue tree, several different animations, object highlighting abilities, random movements within bounds, and other functionalities",
+      "highlights": [],
+      "endDate": "2022-09-01"
+    },
+    {
+      "company": "UC San Diego",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2022-01-01",
+      "summary": "Joint internship program between Qualcomm and The Arthur C. Clarke Center; Became adept at using python library OpenCV and used several computer vision techniques to scan underwater terrains; Used a combination of gaussian blurs, changing of color spaces, thresholding, edge detection, and more; Condensed this into a program that inputs an image and outputs a feature detected top plan",
+      "highlights": [],
+      "endDate": "2022-04-01"
+    },
+    {
+      "company": "UC San Diego Stem Cell Program",
+      "position": "Student Web Developer",
+      "website": "",
+      "startDate": "2020-01-01",
+      "summary": "Design, maintain, and update stemcellprogram.ucsd.edu; Worked frequently with Adobe Photoshop to create new designs on site and social media; Utilized HTML and CSS to create/tweak web pages",
+      "highlights": [],
+      "endDate": "2022-12-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC San Diego",
+      "studyType": "Bachelor of Science: Machine Learning + Minor in Data Science",
+      "startDate": "2018-09-01",
+      
+      "courses": ["Data Structures and Algorithms for Data Science", "Data Science in Practice", "Brain Computer Interfaces", "Exploratory Data Analysis and Inference", "Introduction to Data Management", "Introduction to Data Science", "Introduction to Machine Learning II", "Introduction to Probability", "Linear Algebra", "Principles of Data Science", "Programming and Basic Data Structures for Data Science", "Recommender Systems and Web Mining", "Research Methods, Statistical Analysis", "Statistical Methods", "Supervised Machine Learning Algorithms", "The Practice and Application of Data Science", "Theoretical Foundations of Data Science I", "Theoretical Foundations of Data Science II", "Vector Calculus"],
+      "endDate": "2022-12-15"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "3/3",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "3/3",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "3/3",
+      "keywords": []
+    },
+    {
+      "name": "Matplotlib",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "ImageJ",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "Unreal Engine 5",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "UE5 Blueprints",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "1/3",
+      "keywords": []
+    },
+    {
+      "name": "Blender",
+      "level": "1/3",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "UE Blueprints",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "Pandas",
+      "level": "3/3",
+      "keywords": []
+    },
+    {
+      "name": "Swift",
+      "level": "2/5",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "2/3",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "1/3",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "2/3",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": "4/5"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Computer Vision to automate underwater top plans",
+      "startDate": "2022-01-01",
+      "summary": "",
+      "url": "https://github.com/danielmilton22/Aip197Project",
+      "endDate": "2022-04-01"
+    }
+  ]
+}
