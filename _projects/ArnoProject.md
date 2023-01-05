@@ -19,7 +19,9 @@ links:
 sitemap: false
 ---
 
+# Mr. Rabbit NPC Character ARNO Project
 
+This project was created to be implemented into ARNO as a bunny NPC character with certain functionalities to help players navigate the world, pull up tutorials on a browser widget, and have dialogue with the player. The following documentation will briefly go over how everything works and guides to customizing the bunny NPC to your needs. The bunny character is based on the fictional character Mr. Rabbit from the book Rainbows End.
 
 
 
