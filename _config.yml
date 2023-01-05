@@ -25,8 +25,8 @@ logo:                  /assets/img/apple-touch-icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Daniel Milton
-  email:               danielmilton1999@gmail.com
+  name: Daniel Milton
+  email: danielmilton1999@gmail.com
   social:
     email: danielmilton1999@gmail.com
     linkedin: www.linkedin.com/in/danielmilton22
