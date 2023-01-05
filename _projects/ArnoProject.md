@@ -13,7 +13,9 @@ image:
     480w:  /assets/img/projects/bunny@0,25x.jpg
 links:
   - title: Source
-    url: https://github.com/danielmilton22/ComputerVisionProject
+    url: https://github.com/danielmilton22/ARNOProject
+  - title: Demo
+    url: https://www.youtube.com/watch?v=-HFDkOb5J4k
 sitemap: false
 ---
 
