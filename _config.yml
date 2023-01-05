@@ -27,6 +27,10 @@ author:
   # Used by `jekyll-feed`:
   name:                Daniel Milton
   email:               danielmilton1999@gmail.com
+  social:
+    email: danielmilton1999@gmail.com
+    linkedin: www.linkedin.com/in/danielmilton22
+    github: www.github.com/danielmilton22
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -51,10 +55,7 @@ permalink:             /blog/:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /blog/:num/
 
-author:
-  social:
-    email: danielmilton1999@gmail.com
-    linkedin: www.linkedin.com/in/danielmilton22
+
 
 
 
