@@ -2,8 +2,7 @@
 layout: project
 title: 'Classifying Handwritten digits using Machine Learning'
 date:        1 may 2021
-caption: The MNIST data set is a data set that contains 60,000 small squared pixel grayscale images of
-handwritten digits between 0 and 9
+caption: The MNIST data set contains 60,000 images of handwritten digits
 description: >
   The MNIST data set is a data set that contains 60,000 small squared pixel grayscale images of
 handwritten digits between 0 and 9
