@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Computer Vision Project'
-date:        1 April 2022
+date:        2 May 2022
 caption: Utilizing Python library OpenCV to automate top plans of underwater terrains
 description: >
   The goal of this project was to create a program to scan underwater digital terrain of archaeology sites and return a map of all significant objects, also known as a top plan. Here you can see a picture of the ortho photo to the left and a hand drawn top plan to the right. To see how I automated this process with OpenCV, check out my github repo linked above the image.
