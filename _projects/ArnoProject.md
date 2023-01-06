@@ -6,7 +6,7 @@ caption: I created a functional bunny NPC character to be used in virtual realit
 description: >
    Player interacting with Bunny NPC, click the link above the image to see full demo of functionalities. 
 image: 
-  path: /assets/img/projects/hydejack-site.jpg
+  path: /assets/img/projects/bunny.jpg
   srcset: 
     1920w: /assets/img/projects/bunny.jpg
     960w:  /assets/img/projects/bunny@0,5x.jpg
