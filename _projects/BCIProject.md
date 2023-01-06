@@ -4,7 +4,7 @@ title: 'BCI ML Project'
 date:        1 nov 2021
 caption: Utilizing machine learning classifiers to determine if a subject was using their left or right hand while typing on a keyboard.
 description: >
-   Our group focused on using machine learning classifiers to determine if a subject was using their left or right hand while typing on a key board. Their EEG data was recorded throughout the event which will be used to classify which hand.
+   Our group focused on using machine learning classifiers to determine if a subject was using their left or right hand while typing on a keyboard. Their EEG data was recorded throughout the event which was used to classify which hand.
 image: 
   path: /assets/img/projects/bci.jpg
   srcset: 
