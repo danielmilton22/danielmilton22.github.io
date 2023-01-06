@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Walmart Trip Type Classification ML Project'
-date:        1 may 2022
+date:        1 Jan 2022
 caption: Using classification algorithms to classify a trip to Walmart among 38 categories.  
 description: >
   I used a Walmart trip type dataset provided from a Kaggle competition. Along with 4 groupmates, we tested several several classification algorithms to find the best results.
