@@ -126,7 +126,3 @@ https://www.youtube.com/watch?v=-HFDkOb5J4k
 - "What did I tell you, Doc! We're in. We're in!" Rabbit danced a merry jig around the caisson
 - "Hey, no problem." Rabbit waved magnanimously. 
 
-## Authors
-
-- [@danielmilton22](https://www.github.com/danielmilton22)
-
